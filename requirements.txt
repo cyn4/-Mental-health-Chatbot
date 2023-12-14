@@ -1,0 +1,8 @@
+Flask==2.0.1
+FastAPI==0.68.1
+pydantic==1.8.2
+textblob==0.15.3
+python-dotenv==0.19.1
+openai==0.27.8
+uvicorn==0.15.0
+pymongo[srv]==3.12.0

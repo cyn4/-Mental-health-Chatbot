@@ -14,7 +14,7 @@ load_dotenv()
 api_key = os.environ['API_KEY']
 base_url = os.getenv("BASE_URL")
 # Set your OpenAI API key
-openai.api_key = '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'
+openai.api_key = ''
 
 app = FastAPI()
 @app.get("/")
